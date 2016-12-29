@@ -4,5 +4,13 @@
 
 ---
 
+# 0.1.0 (2016-12-29)
+## Features
+Implemented the main XML theme file [`nord.xml`](https://github.com/arcticicestudio/nord-notepadplusplus/blob/develop/src/xml/nord.xml). (@arcticicestudio, #1, 81e80e6b)
+
+![](https://raw.githubusercontent.com/arcticicestudio/nord-notepadplusplus/develop/src/assets/scrot-lang-python.png)
+
+Detailed information about supported languages and install instructions can be found in the [README](https://github.com/arcticicestudio/nord-notepadplusplus/blob/develop/README.md#installation) and in the [project wiki](https://github.com/arcticicestudio/nord-notepadplusplus/wiki).
+
 # 0.0.0 (2016-12-29)
 **Project Initialization**
