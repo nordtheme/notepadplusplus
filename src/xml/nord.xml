@@ -1,13 +1,13 @@
 <!--
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-title      Nord Notepad++                                           +
-project    nord-notepadplusplus                                     +
-version    0.1.0                                                    +
-repository https://github.com/arcticicestudio/nord-notepadplusplus  +
-author     Arctic Ice Studio                                        +
-email      development@arcticicestudio.com                          +
-copyright  Copyright (C) 2016                                       +
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Copyright (c) 2016-present Arctic Ice Studio <development@arcticicestudio.com>
+Copyright (c) 2016-present Sven Greb <code@svengreb.de>
+
+Project:    Nord Notepad++
+Version:    0.1.0
+Repository: https://github.com/arcticicestudio/nord-notepadplusplus
+License:    MIT
+References
+  https://developer.apple.com/xcode
 -->
 <NotepadPlus>
   <GlobalStyles>
