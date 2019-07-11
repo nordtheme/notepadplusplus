@@ -15,7 +15,7 @@ References
     <WidgetStyle name="Default Style" styleID="32" fgColor="D8DEE9" bgColor="2E3440" fontName="Source Code Pro" fontStyle="0" fontSize="16" />
     <WidgetStyle name="Indent guideline style" styleID="37" fgColor="4C566A" bgColor="2E3440" fontStyle="0" />
     <WidgetStyle name="Brace highlight style" styleID="34" fgColor="D8DEE9" bgColor="88C0D0" fontStyle="0" fontSize="12" />
-    <WidgetStyle name="Bad brace colour" styleID="35" fgColor="D8DEE9" bgColor="BF616A" fontStyle="0" />
+    <WidgetStyle name="Bad brace colour" styleID="35" fgColor="BF616A" bgColor="D8DEE9" fontStyle="0" />
     <WidgetStyle name="Current line background colour" styleID="0" fgColor="D8DEE9" bgColor="3B4252" fontStyle="0" />
     <WidgetStyle name="Selected text colour" styleID="0" fgColor="D8DEE9" bgColor="434C5E" fontStyle="0" />
     <WidgetStyle name="Caret colour" styleID="2069" fgColor="D8DEE9" bgColor="2E3440" fontStyle="0" />
