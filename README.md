@@ -15,7 +15,7 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 ### Installation
 #### Manual
 Copy the [`nord.xml`](https://github.com/arcticicestudio/nord-notepadplusplus/tree/develop/src/xml/nord.xml) file into the `theme` directory located in the install directory of Notepad++.  
-The default path is `C:\Program Files\Notepad++\themes` or `C:\Program Files (x86)\Notepad++\themes` depending on your OS architecture type.
+The default path is `%AppData%\notepad++\themes` unless the _Don't use %APPDATA%_ option was set during setup. In this case, the default path would be `C:\ProgramFiles\Notepad++\themes` or `C:\Program Files(x86)\Notepad++\themes` depending on your OS architecture type.
 
 ### Activation
   1. Restart Notepad++
