@@ -1,13 +1,9 @@
 <!--
-Copyright (c) 2016-present Arctic Ice Studio <development@arcticicestudio.com>
-Copyright (c) 2016-present Sven Greb <code@svengreb.de>
+Copyright (c) 2016-present Sven Greb <development@svengreb.de>
+This source code is licensed under the MIT license found in the license file.
 
-Project:    Nord Notepad++
-Version:    0.1.0
-Repository: https://github.com/arcticicestudio/nord-notepadplusplus
-License:    MIT
-References
-  https://developer.apple.com/xcode
+References:
+  1. https://developer.apple.com/xcode
 -->
 <NotepadPlus>
   <GlobalStyles>
@@ -323,7 +319,7 @@ References
       <WordsStyle name="DATA SECTION" styleID="19" fgColor="D8DEE9" bgColor="2E3440" fontStyle="0" />
       <WordsStyle name="STRING Q" styleID="24" fgColor="A3BE8C" bgColor="2E3440" fontStyle="0" />
     </LexerType>
-    
+
     <LexerType name="searchResult" desc="Search result" ext="">
       <WordsStyle name="Default" styleID="0" fgColor="D8DEE9" bgColor="2E3440" fontStyle="0" />
       <WordsStyle name="Search Header" styleID="1" fgColor="81A1C1" bgColor="2E3440" fontStyle="0" />
@@ -333,7 +329,7 @@ References
       <WordsStyle name="Selected Line" styleID="5" fgColor="D8DEE9" bgColor="3B4252" fontStyle="0" />
       <WordsStyle name="Current line background colour" styleID="6" bgColor="3B4252" fontStyle="0" />
     </LexerType>
-    
+
     <LexerType name="sql" desc="SQL" ext="sql">
       <WordsStyle name="DEFAULT" styleID="0" fgColor="D8DEE9" bgColor="2E3440" fontStyle="0" />
       <WordsStyle name="COMMENT" styleID="1" fgColor="616E88" bgColor="2E3440" fontStyle="0" />
